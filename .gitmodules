@@ -1,0 +1,3 @@
+[submodule "Lidar tracking/VoxelNeXt-master/OpenPCDet"]
+	path = Lidar tracking/VoxelNeXt-master/OpenPCDet
+	url = https://github.com/open-mmlab/OpenPCDet.git
